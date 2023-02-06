@@ -1,0 +1,67 @@
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    margin : 50px;
+}
+
+#logo { /* id */
+    font-family : 'Fredoka One';
+    margin : 0 ;
+}
+
+body>footer{
+    background : dodgerblue;
+    padding : 16px ;
+
+}
+
+body>footer>p {
+    color : white;
+    padding : 16px;
+    text-align: center;
+}
+
+header > a {
+    color : white ;
+    text-decoration: none;
+}
+
+a:hover {
+    color : hotpink;
+}
+
+body > header {
+    color : white;
+    background: dodgerblue;
+    padding : 16px;
+    }
+
+.nav-links {   /* class */
+    list-style: none;
+    padding : 0 ;
+}
+
+
+header ul{
+    padding : 10
+}
+
+
+textarea {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+article > ul{
+    list-style: none;
+    padding : 0 ;
+}
+
+
+img{
+    width : 25%;
+    height: auto ;
+}
+
+article{
+    padding-left: 10%
+}
